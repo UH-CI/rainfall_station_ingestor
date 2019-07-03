@@ -1,0 +1,9 @@
+{
+  "title": "RainfallStation",
+  "description": "Describe a rainfall gauge associated with an object",
+  "type": "object",
+  "ikewai": true,
+  "geospatial": true,
+  "properties": {
+      }
+}
